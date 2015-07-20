@@ -1,0 +1,192 @@
+[
+{ "type": "Feature",
+     "properties":{
+                  "title":"元木村肉屋前駐車場",
+                  "desc":"湯本地域仲町地区。木村精肉店があったのは弥坂湯斜め前で弥坂湯の横の駐車場です。",
+                  "image":""},
+     "geometry": {
+                   "type": "Point",
+                   "coordinates":[35.2289254,139.1017112]
+                  }
+},
+{ "type": "Feature",
+     "properties":{
+                  "title":"吉池従業員宿舎前",
+                  "desc":"寮は２つあるけど広い駐車場のあるこちら。案内所の方に伺った。",
+                  "image":""},
+     "geometry": {
+                   "type": "Point",
+                   "coordinates":[139.1009992,35.2302212]
+                  }
+},
+{ "type": "Feature",
+     "properties":{
+                  "title":"須雲川区民会館前",
+                  "desc":"",
+                  "image":""},
+     "geometry": {
+                   "type": "Point",
+                   "coordinates":[,]
+                  }
+   },
+   { "type": "Feature",
+     "properties":{
+                  "title":"忠魂碑前広場",
+                  "desc":"",
+                  "image":""},
+     "geometry": {
+                   "type": "Point",
+                   "coordinates":[,]
+                  }
+   },
+   { "type": "Feature",
+     "properties":{
+                  "title":"上ノ山瀬戸氏宅前",
+                  "desc":"",
+                  "image":""},
+     "geometry": {
+                   "type": "Point",
+                   "coordinates":[,]
+                  }
+   },
+   { "type": "Feature",
+     "properties":{
+                  "title":"住宅集会所前",
+                  "desc":"",
+                  "image":""},
+     "geometry": {
+                   "type": "Point",
+                   "coordinates":[,]
+                  }
+   },
+   { "type": "Feature",
+     "properties":{
+                  "title":"川向広場",
+                  "desc":"",
+                  "image":""},
+     "geometry": {
+                   "type": "Point",
+                   "coordinates":[,]
+                  }
+   },
+   { "type": "Feature",
+     "properties":{
+                  "title":"旧8区自治会倉庫前",
+                  "desc":"",
+                  "image":""},
+     "geometry": {
+                   "type": "Point",
+                   "coordinates":[,]
+                  }
+   },
+   { "type": "Feature",
+     "properties":{
+                  "title":"横浜ゴム健康保険組合箱根保養所駐車場",
+                  "desc":"",
+                  "image":""},
+     "geometry": {
+                   "type": "Point",
+                   "coordinates":[139.0315139,35.2491293]
+                  }
+   },
+   { "type": "Feature",
+     "properties":{
+                  "title":"旧強羅5区自主防災倉庫前",
+                  "desc":"",
+                  "image":""},
+     "geometry": {
+                   "type": "Point",
+                   "coordinates":[,]
+                  }
+   },
+   { "type": "Feature",
+     "properties":{
+                  "title":"出戸公園",
+                  "desc":"",
+                  "image":""},
+     "geometry": {
+                   "type": "Point",
+                   "coordinates":[,]
+                  }
+   },
+   { "type": "Feature",
+     "properties":{
+                  "title":"高原ふれあい広場",
+                  "desc":"",
+                  "image":""},
+     "geometry": {
+                   "type": "Point",
+                   "coordinates":[,]
+                  }
+   },
+   { "type": "Feature",
+     "properties":{
+                  "title":"旧チッソ健保仙石荘前広場",
+                  "desc":"",
+                  "image":""},
+     "geometry": {
+                   "type": "Point",
+                   "coordinates":[138.997811,35.2560362]
+                  }
+   },
+   { "type": "Feature",
+     "properties":{
+                  "title":"大石周辺",
+                  "desc":"",
+                  "image":""},
+     "geometry": {
+                   "type": "Point",
+                   "coordinates":[139.001733,35.2402304]
+                  }
+   },
+   { "type": "Feature",
+     "properties":{
+                  "title":"旧日本銀行仙石原保養所前",
+                  "desc":"",
+                  "image":""},
+     "geometry": {
+                   "type": "Point",
+                   "coordinates":[,]
+                  }
+   },
+   { "type": "Feature",
+     "properties":{
+                  "title":"箱根観光船管理地空地",
+                  "desc":"",
+                  "image":""},
+     "geometry": {
+                   "type": "Point",
+                   "coordinates":[,]
+                  }
+   },
+   { "type": "Feature",
+     "properties":{
+                  "title":"伊豆箱根駐車場",
+                  "desc":"",
+                  "image":""},
+     "geometry": {
+                   "type": "Point",
+                   "coordinates":[,]
+                  }
+   },
+   { "type": "Feature",
+     "properties":{
+                  "title":"元箱根観光駐車場",
+                  "desc":"",
+                  "image":""},
+     "geometry": {
+                   "type": "Point",
+                   "coordinates":[,]
+                  }
+   },
+  { "type": "Feature",
+     "properties":{
+                  "title":"旧芦ノ湖園前広場",
+                  "desc":"",
+                  "image":""},
+     "geometry": {
+                   "type": "Point",
+                   "coordinates":[139.033717,35.2050347]
+                  }
+   }
+]
